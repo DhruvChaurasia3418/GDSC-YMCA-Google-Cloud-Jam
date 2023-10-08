@@ -13,7 +13,7 @@ function TopBar() {
 				<div className="h-full p-2 pl-0">
 					<span className="text-2xl"> Google Cloud&nbsp;</span>
 					<b>
-						<span class="text-3xl"> STUDY JAMS 23 - 24 COHORT 1</span>
+						<span class="text-3xl"> STUDY JAMS GDSC-YMCA COHORT 2</span>
 					</b>
 				</div>
 			</h4>

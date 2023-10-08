@@ -11,9 +11,9 @@ function Footer() {
 			<div className="text-center text-dark p-3">
 				<a
 					className="text-dark"
-					href="https://gdsc.community.dev/national-forensic-sciences-university-delhi/"
+					href="https://gdsc.community.dev/j-c-bose-university-of-science-and-technology-faridabad/"
 				>
-					&copy; GDSC-NFSU Team
+					&copy; GDSC YMCA Team
 				</a>
 			</div>
 		</footer>
