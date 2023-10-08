@@ -29,7 +29,7 @@ h4 {
 .marquee{
     padding: 24px 0;
     white-space: nowrap;
-    animation: marquee 10.5s linear infinite;
+    animation: marquee 8.5s linear infinite;
 }
 
 .marquee:after{
