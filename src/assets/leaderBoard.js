@@ -2,11 +2,11 @@ export const LeaderBoards =
 [
 	{
         sl: "1",
-        Name: "Sandesh"
+        Name: "Sandesh",
     }, 
     {
         sl: "2",
-        Name: "Pritam"
+        Name: "Pritam",
     }
 
 ];
