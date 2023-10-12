@@ -2,11 +2,11 @@ export const LeaderBoards =
 [
 	{
         "sl": "1",
-        "Name": "Sandesh",
+        "Name": "Varun Parashar",
     }, 
     {
         "sl": "2",
-        "Name": "Pritam",
+        "Name": "Tanishq Kumar",
     }
 
 ];
