@@ -1,6 +1,6 @@
-export const Date = "17 Oct 2023, 18:30";
+export const Date = "18 Oct 2023, 18:30";
 
-export const DataCompletes = [
+export const DataCompletes = [ 
   {
     "Student Name": "Dhruv Chaurasia",
     "# of Courses Completed": "4",
@@ -21,16 +21,16 @@ export const DataCompletes = [
     "Student Name": "Kavya Mathur",
     "# of Courses Completed": "4",
     "# of Skill Badges Completed": "4",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
+    "# of GenAI Game Completed": "1",
+    "Total Completions of both Pathways": "Yes",
     "Redemption Status": "Yes"
   },
   {
     "Student Name": "Himanshi Soni",
-    "# of Courses Completed": "2",
-    "# of Skill Badges Completed": "0",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
+    "# of Courses Completed": "4",
+    "# of Skill Badges Completed": "4",
+    "# of GenAI Game Completed": "1",
+    "Total Completions of both Pathways": "Yes",
     "Redemption Status": "Yes"
   },
   {
@@ -59,8 +59,8 @@ export const DataCompletes = [
   },
   {
     "Student Name": "Ritwik Singh",
-    "# of Courses Completed": "0",
-    "# of Skill Badges Completed": "0",
+    "# of Courses Completed": "4",
+    "# of Skill Badges Completed": "4",
     "# of GenAI Game Completed": "0",
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
@@ -109,13 +109,13 @@ export const DataCompletes = [
     "Student Name": "Varun Parashar",
     "# of Courses Completed": "4",
     "# of Skill Badges Completed": "4",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
+    "# of GenAI Game Completed": "1",
+    "Total Completions of both Pathways": "Yes",
     "Redemption Status": "Yes"
   },
   {
     "Student Name": "Arsh Gupta",
-    "# of Courses Completed": "0",
+    "# of Courses Completed": "1",
     "# of Skill Badges Completed": "0",
     "# of GenAI Game Completed": "0",
     "Total Completions of both Pathways": "No",
@@ -141,8 +141,8 @@ export const DataCompletes = [
     "Student Name": "Tanishq Kumar",
     "# of Courses Completed": "4",
     "# of Skill Badges Completed": "4",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
+    "# of GenAI Game Completed": "1",
+    "Total Completions of both Pathways": "Yes",
     "Redemption Status": "Yes"
   },
   {
@@ -436,9 +436,9 @@ export const DataCompletes = [
   {
     "Student Name": "Yashika",
     "# of Courses Completed": "4",
-    "# of Skill Badges Completed": "3",
+    "# of Skill Badges Completed": "4",
     "# of GenAI Game Completed": "1",
-    "Total Completions of both Pathways": "No",
+    "Total Completions of both Pathways": "Yes",
     "Redemption Status": "Yes"
   },
   {
@@ -556,9 +556,9 @@ export const DataCompletes = [
   {
     "Student Name": "Sheetal",
     "# of Courses Completed": "4",
-    "# of Skill Badges Completed": "2",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
+    "# of Skill Badges Completed": "4",
+    "# of GenAI Game Completed": "1",
+    "Total Completions of both Pathways": "Yes",
     "Redemption Status": "Yes"
   },
   {
@@ -580,7 +580,7 @@ export const DataCompletes = [
   {
     "Student Name": "Sakshi",
     "# of Courses Completed": "4",
-    "# of Skill Badges Completed": "3",
+    "# of Skill Badges Completed": "4",
     "# of GenAI Game Completed": "0",
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
@@ -635,7 +635,7 @@ export const DataCompletes = [
   },
   {
     "Student Name": "Ria Chhabra",
-    "# of Courses Completed": "0",
+    "# of Courses Completed": "1",
     "# of Skill Badges Completed": "0",
     "# of GenAI Game Completed": "1",
     "Total Completions of both Pathways": "No",
@@ -684,7 +684,7 @@ export const DataCompletes = [
   {
     "Student Name": "Pragya parashar",
     "# of Courses Completed": "4",
-    "# of Skill Badges Completed": "3",
+    "# of Skill Badges Completed": "4",
     "# of GenAI Game Completed": "0",
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
@@ -724,7 +724,7 @@ export const DataCompletes = [
   {
     "Student Name": "NITIKA RANI",
     "# of Courses Completed": "4",
-    "# of Skill Badges Completed": "0",
+    "# of Skill Badges Completed": "2",
     "# of GenAI Game Completed": "0",
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
@@ -851,8 +851,8 @@ export const DataCompletes = [
   },
   {
     "Student Name": "Gungun Nagpal",
-    "# of Courses Completed": "2",
-    "# of Skill Badges Completed": "0",
+    "# of Courses Completed": "4",
+    "# of Skill Badges Completed": "2",
     "# of GenAI Game Completed": "0",
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
@@ -1173,8 +1173,8 @@ export const DataCompletes = [
     "Student Name": "Tarun kohli",
     "# of Courses Completed": "4",
     "# of Skill Badges Completed": "4",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
+    "# of GenAI Game Completed": "1",
+    "Total Completions of both Pathways": "Yes",
     "Redemption Status": "Yes"
   },
   {
