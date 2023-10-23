@@ -89,44 +89,96 @@ export const LeaderBoards =
         "Name": "LAKSHAY DALAL",
     },
     {
-        "s": "23",
+        "sl": "23",
         "Name": "ADITYA RAJ",
     },
     {
-        "s": "24",
+        "sl": "24",
         "Name": "PRAKHAR",
     },
     {
-        "s": "25",
+        "sl": "25",
         "Name": "ADITI GARG",
     },
     {
-        "s": "26",
+        "sl": "26",
         "Name": "ANANYA",
     },
     {
-        "s": "27",
+        "sl": "27",
         "Name": "GUNGUN NAGPAL",
     },
     {
-        "s": "28",
+        "sl": "28",
         "Name": "RAVINDER",
     },
     {
-        "s": "29",
+        "sl": "29",
         "Name": "TUSHAR",
     },
     {
-        "s": "30",
+        "sl": "30",
         "Name": "SHIVENDRA NATH DWIVEDI",
     },
     {
-        "s": "31",
+        "sl": "31",
         "Name": "SHIVAM BHATIA",
     },
     {
-        "s": "32",
+        "sl": "32",
         "Name": "ARSH GUPTA",
-    }
+    },
+    {
+        "sl": "33",
+        "Name": "ANUSHKA GUPTA",
+    },
+    {
+        "sl": "34",
+        "Name": "MUKUL UPADHYAY",
+    },
+    {
+        "sl": "35",
+        "Name": "AKANSHA NEGI",
+    },
+    {
+        "sl": "36",
+        "Name": "NAINA KHARAYAT",
+    },
+    {
+        "sl": "37",
+        "Name": "HITESH",
+    },
+    {
+        "sl": "38",
+        "Name": "DHRUV SHARMA",
+    },
+    {
+        "sl": "39",
+        "Name": "VISHAL ",
+    },
+    {
+        "sl": "40",
+        "Name": "VARNIT AGARWAL",
+    },
+    {
+        "sl": "41",
+        "Name": "TUSHAR BANGA",
+    },
+    {
+        "sl": "42",
+        "Name": "SAKSHI",
+    },
+    {
+        "sl": "43",
+        "Name": "TANISHQ KUMAR",
+    },
+    {
+        "sl": "44",
+        "Name": "MICHAEL MUTHURAJ",
+    },
+    {
+        "sl": "45",
+        "Name": "BHUVI SAINI",
+    },
 
 ];
