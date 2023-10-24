@@ -70,7 +70,7 @@ export const LeaderBoards =
     },
     {
         "sl": "18",
-        "Name": "RIA CHHABRA",
+        "Name": "JITENDAR",
     },
     {
         "sl": "19",
@@ -158,7 +158,7 @@ export const LeaderBoards =
     },
     {
         "sl": "40",
-        "Name": "VISHAL ",
+        "Name": "VISHAL",
     },
     {
         "sl": "41",
@@ -183,6 +183,98 @@ export const LeaderBoards =
     {
         "sl": "46",
         "Name": "BHUVI SAINI",
+    },
+    {
+        "sl": "47",
+        "Name": "KESHAV KUMAR",
+    },
+    {
+        "sl": "48",
+        "Name": "KARAN RAWAT",
+    },
+    {
+        "sl": "49",
+        "Name": "JAGDISH",
+    },
+    {
+        "sl": "50",
+        "Name": "SOURAV",
+    },
+    {
+        "sl": "51",
+        "Name": "SHOBHIT GOYAL",
+    },
+    {
+        "sl": "52",
+        "Name": "MANOJ JANGRA",
+    },
+    {
+        "sl": "53",
+        "Name": "KESHAV LUTHRA",
+    },
+    {
+        "sl": "54",
+        "Name": "KARAN",
+    },
+    {
+        "sl": "55",
+        "Name": "DISHA MENDIRATTA",
+    },
+    {
+        "sl": "56",
+        "Name": "TANISHTTHA SEHGAL",
+    },
+    {
+        "sl": "57",
+        "Name": "ASHWIN",
+    },
+    {
+        "sl": "58",
+        "Name": "ANKIT",
+    },
+    {
+        "sl": "59",
+        "Name": "MENKA",
+    },
+    {
+        "sl": "60",
+        "Name": "ABHISHEK",
+    },
+    {
+        "sl": "61",
+        "Name": "SUNNY JHA",
+    },
+    {
+        "sl": "62",
+        "Name": "AARUSHA",
+    },
+    {
+        "sl": "63",
+        "Name": "KUNAL PARASHAR",
+    },
+    {
+        "sl": "64",
+        "Name": "ANSH KUMAR",
+    },
+    {
+        "sl": "65",
+        "Name": "GAURAV BANSAL",
+    },
+    {
+        "sl": "66",
+        "Name": "RAHUL KUMAR",
+    },
+    {
+        "sl": "67",
+        "Name": "JAGDISH",
+    },
+    {
+        "sl": "68",
+        "Name": "PANKAJ",
+    },
+    {
+        "sl": "69",
+        "Name": "ISHANT DHANKHAR",
     },
 
 ];
