@@ -276,5 +276,21 @@ export const LeaderBoards =
         "sl": "69",
         "Name": "ISHANT DHANKHAR",
     },
+    {
+        "sl": "70",
+        "Name": "PREET SAINI",
+    },
+    {
+        "sl": "71",
+        "Name": "BHAWNA",
+    },
+    {
+        "sl": "72",
+        "Name": "PANKAJ VERMA",
+    },
+    {
+        "sl": "73",
+        "Name": "RAJEEV KUMAR",
+    },
 
 ];
