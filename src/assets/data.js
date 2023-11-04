@@ -1,6 +1,6 @@
-export const Date = "1 Nov 2023, 18:30";
+export const Date = "4 Nov 2023, 19:30";
 
-export const DataCompletes = [
+export const DataCompletes = [ 
   {
     "Student Name": "Dhruv Chaurasia",
     "# of Courses Completed": "4",
@@ -452,9 +452,9 @@ export const DataCompletes = [
   {
     "Student Name": "Vinayak bhat",
     "# of Courses Completed": "4",
-    "# of Skill Badges Completed": "1",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
+    "# of Skill Badges Completed": "4",
+    "# of GenAI Game Completed": "1",
+    "Total Completions of both Pathways": "Yes",
     "Redemption Status": "Yes"
   },
   {
@@ -1021,7 +1021,7 @@ export const DataCompletes = [
     "Student Name": "Anuj kumar",
     "# of Courses Completed": "4",
     "# of Skill Badges Completed": "0",
-    "# of GenAI Game Completed": "0",
+    "# of GenAI Game Completed": "1",
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
@@ -1052,7 +1052,7 @@ export const DataCompletes = [
   {
     "Student Name": "Ananya",
     "# of Courses Completed": "4",
-    "# of Skill Badges Completed": "0",
+    "# of Skill Badges Completed": "2",
     "# of GenAI Game Completed": "1",
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
@@ -1193,4 +1193,4 @@ export const DataCompletes = [
     "Total Completions of both Pathways": "Yes",
     "Redemption Status": "Yes"
   }
-]
+ ]
