@@ -292,5 +292,49 @@ export const LeaderBoards =
         "sl": "73",
         "Name": "RAJEEV KUMAR",
     },
+    {
+        "sl": "74",
+        "Name": "AKSHAT SHARMA",
+    },
+    {
+        "sl": "75",
+        "Name": "ATUL VERMA",
+    },
+    {
+        "sl": "76",
+        "Name": "AYUSH SHARMA",
+    },
+    {
+        "sl": "77",
+        "Name": "CHIRAG BANGA",
+    },
+    {
+        "sl": "78",
+        "Name": "DIPANSHU KAUSHIK",
+    },
+    {
+        "sl": "79",
+        "Name": "PRIYANSHU MITTAL",
+    },
+    {
+        "sl": "80",
+        "Name": "VINAYAK BHAT",
+    },
+    {
+        "sl": "81",
+        "Name": "SRIYANSH PATEL",
+    },
+    {
+        "sl": "82",
+        "Name": "YASH MAHOUR",
+    },
+    {
+        "sl": "83",
+        "Name": "ROOPSHI",
+    },
+    {
+        "sl": "84",
+        "Name": "GAURAV NAGARKOTI",
+    },
 
 ];
